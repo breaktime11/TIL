@@ -413,7 +413,7 @@ function askForCoords(){
 - API keys 복사
 
 ```javascript
-const API_KEY = "643adbd396a1b85d6abb367fc3ad4e60";
+const API_KEY = "";
 ```
 
 - 아래를 이용

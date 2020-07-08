@@ -10,7 +10,7 @@
 
 ## 1. properties 파일 생성 후 관리
 
-![spring_img](../image/spring/15.png)
+![15](https://user-images.githubusercontent.com/65323733/86904468-b7e27100-c14b-11ea-8302-342d6e03dfb8.PNG)
 
 ### (1) 폴더 & 파일 생성
 
@@ -76,7 +76,7 @@ spring.datasource.password=비밀번호
 
 ## 2. STS Spring Framework .gitignore 파일
 
-![spring_img](../image/spring/16.png)
+![16](https://user-images.githubusercontent.com/65323733/86904487-bfa21580-c14b-11ea-92be-0985999ad1d3.PNG)
 
 - .gitignore 파일은 항상 프로젝트 최상단에 위치해야한다.
 

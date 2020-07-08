@@ -8,11 +8,9 @@
 >
 > 다음과 같이 유형, 분류 등을 선택하고 조회버튼을 클릭하면 원하는 데이터를 가져온다.
 
-![spring_img](../image/spring/17.png)
+![17](https://user-images.githubusercontent.com/65323733/86904507-c92b7d80-c14b-11ea-9917-f079822abb5c.PNG)
 
-![spring_img](../image/spring/18.png)
-
-
+![18](https://user-images.githubusercontent.com/65323733/86904520-ce88c800-c14b-11ea-8f80-5b1266c2a101.PNG)
 
 <br>
 

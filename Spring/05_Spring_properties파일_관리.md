@@ -10,6 +10,8 @@
 
 ## 1. properties 파일 생성 후 관리
 
+![spring_img](../image/spring/15.png)
+
 ### (1) 폴더 & 파일 생성
 
 - src - main - webapp 밑에 `config` 폴더를 생성한 후 `config.properties` 설정 파일을 생성해준다.
@@ -73,6 +75,8 @@ spring.datasource.password=비밀번호
 <br>
 
 ## 2. STS Spring Framework .gitignore 파일
+
+![spring_img](../image/spring/16.png)
 
 - .gitignore 파일은 항상 프로젝트 최상단에 위치해야한다.
 
